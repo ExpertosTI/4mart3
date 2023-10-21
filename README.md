@@ -6,17 +6,17 @@ MM Check
 
 ## Introducción
 
-¡Saludos, amantes de la tecnología! Bienvenidos a **4Mart3**, tu asistente geek para la gestión de credenciales. Como un fiel seguidor de Zoe y Enrique Bunbury, comprendemos la importancia de la organización en un mundo digital caótico. Hemos creado 4Mart3 con el propósito de resolver un enigma contemporáneo: el mantenimiento y recuperación de nuestras queridas contraseñas.
+¡Saludos, amantes de la tecnología! Bienvenidos a **4Mart3**, tu asistente geek para la gestión de credenciales.  comprendemos la importancia de la organización en un mundo digital caótico. Hemos creado 4Mart3 con el propósito de resolver un enigma contemporáneo: el mantenimiento y recuperación de nuestras queridas contraseñas.
 
 ## Descripción
 
-4Mart3 es una sencilla pero poderosa herramienta que te permite verificar la validez de tus credenciales en línea, con un enfoque especial en el servicio de **Spotify**. ¿Alguna vez has olvidado si una contraseña aún funciona para tu cuenta? ¡No te preocupes! 4Mart3 está aquí para facilitarte la vida.
+4Mart3 es una sencilla pero poderosa herramienta que te permite verificar la validez de tus credenciales en línea, con un enfoque especial en el servicio de **Sp*. ¿Alguna vez has olvidado si una contraseña aún funciona para tu cuenta? ¡No te preocupes! 4Mart3 está aquí para facilitarte la vida.
 
 ## Características
 
 - **Sencillez**: Una interfaz gráfica fácil de usar que te permite buscar un archivo con tus credenciales.
-- **Verificación de Spotify**: Verifica si tus credenciales son válidas específicamente para el servicio de Spotify.
-- **Estilo Nerd**: La interfaz muestra un mensaje de bienvenida digno de un geek con buen gusto musical.
+- **Verificació: Verifica si tus credenciales son válidas específicamente para el servicio de Spotify.
+- **Estilo*: La interfaz muestra un mensaje de bienvenida digno de un geek con buen gusto musical.
 
 ## Instrucciones de Uso
 
